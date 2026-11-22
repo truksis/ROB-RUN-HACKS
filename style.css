@@ -1,1 +1,21 @@
+ background: #080d0b;
+  color: #00ff66;
+  font-family: Arial;
+  text-align: center;
+  padding: 50px;
+}
 
+button {
+  background: #10251a;
+  color: #00ff66;
+  border: 1px solid #00ff66;
+  padding: 15px;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+button:hover {
+  background: #00ff66;
+  color: black;
+}
